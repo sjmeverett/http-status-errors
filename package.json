@@ -1,0 +1,24 @@
+{
+  "name": "http-status-errors",
+  "version": "1.0.0",
+  "description": "Throw HTTP error status codes as Errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stewartml/http-status-errors.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "error"
+  ],
+  "author": "Stewart MacKenzie-Leigh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stewartml/http-status-errors/issues"
+  },
+  "homepage": "https://github.com/stewartml/http-status-errors#readme"
+}
