@@ -38,7 +38,7 @@ throw new NotFoundError('widget not found');
 Below is the list of error names, status codes and default messages that this package supports.
 
 | Code | Class name | Default message |
-|--|--|--|
+|---|---|---|
 | 400 | `BadRequestError` | There is a problem with the submitted request. |
 | 401 | `NotAuthenticatedError` | You are not authenticated.  Please authenticate and try again. |
 | 402 | `PaymentRequiredError` | The action you are trying to perform requires payment. |
