@@ -1,5 +1,5 @@
 
-declare class HttpStatusError extends Error {
+export declare class HttpStatusError extends Error {
   constructor(message?: string, meta?: any);
   status: number;
 }
