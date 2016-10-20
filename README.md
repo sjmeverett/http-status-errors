@@ -45,6 +45,7 @@ Below is the list of error names, status codes and default messages that this pa
 | 403 | `ForbiddenError` | You are forbidden from accessing the requested resource. |
 | 404 | `NotFoundError` | The requested resource was not found. |
 | 405 | `MethodNotAllowedError` | The resource does not support the requested method. |
+| 406 | `NotAcceptableError` | The resource cannot be formatted according to the requested type in the Accept header. |
 | 409 | `ConflictError` | There is a conflict with the requested resource. |
 | 418 | `TeapotError` | I'm a teapot... |
 | 451 | `UnavailableError` | The requested resource is unavailable for legal reasons. |

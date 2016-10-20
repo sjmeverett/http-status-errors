@@ -1,6 +1,6 @@
 {
   "name": "http-status-errors",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Throw HTTP error status codes as Errors",
   "main": "index.js",
   "typings": "index.d.ts",
